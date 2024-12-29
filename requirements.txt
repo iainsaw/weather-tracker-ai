@@ -1,0 +1,9 @@
+streamlit
+requests
+google-generativeai
+matplotlib
+numpy
+python-dotenv
+
+#To generate requirements.txt:
+#pip freeze > requirements.txt
